@@ -46,6 +46,13 @@ The program generates:
 - Integrate real wind data
 - Extend to structural load estimation
 
+## Skills Demonstrated
+
+- Engineering calculations using Python
+- Data visualization using Matplotlib
+- Scientific computing with NumPy
+- Data export using Pandas
+
 ## 👩‍💻 Author
 Andriel Mariya Shinil  
 Electrical & Electronics Engineering Student
